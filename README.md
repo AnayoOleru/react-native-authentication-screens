@@ -1,1 +1,14 @@
-# react-native-authentication-screens
+# React Native Authentication Components
+
+A react native component containing Authentication Components
+
+<p align="left">
+  <img src="https://res.cloudinary.com/dvfr0z8wr/image/upload/v1673398220/Simulator_Screen_Shot_-_iPhone_13_Pro_Max_-_2023-01-11_at_00.43.35.png" width="250" title="hover text">
+  <img src="https://res.cloudinary.com/dvfr0z8wr/image/upload/v1673398220/Simulator_Screen_Shot_-_iPhone_13_Pro_Max_-_2023-01-11_at_00.45.37.png" width="250" alt="accessibility text">
+</p>
+
+[Demo](https://youtu.be/idq83awYgbo)
+
+[Run it on your Phone](https://expo.dev/@anayooleru/React-native-authentication-screen?serviceType=classic&distribution=expo-go)
+
+[Send me an email](mailto:anayo_oleru@outlook.com)
